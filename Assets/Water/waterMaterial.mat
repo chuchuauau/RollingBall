@@ -19,7 +19,7 @@ Material:
   m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: _Horizon_Color
+  m_LockedProperties: _Horizon_Color _Lighting_Smoothness
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -76,7 +76,7 @@ Material:
     - _Surface_Foam_Speed: 0
     - _Surface_Foam_Tiling: 22.1
     - _Wave_Length: 7.76
-    - _Wave_Speed: 0.852
+    - _Wave_Speed: 0
     - _Wave_Steepness: 0.248
     m_Colors:
     - _Deep_Color: {r: 0.23139894, g: 0.30416983, b: 0.6289307, a: 0.8627451}
